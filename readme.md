@@ -10,7 +10,7 @@ To clone this project from git use:
 > git clone https://github.com/krushelnytskyi/CourseNetwork.git
 ```
 
-Project files, including this document will be placed relational in CourseShop folder.
+Project files, including this document will be placed relational in CourseNetwork folder.
 You can open this folder with your IDE and start development. To install project on your system install list of sowtware:
 
 * PHP \(**>=7.0**\)
