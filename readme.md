@@ -11,11 +11,11 @@ To clone this project from git use:
 ```
 
 Project files, including this document will be placed relational in CourseNetwork folder.
-You can open this folder with your IDE and start development. To install project on your system install list of sowtware:
+You can open this folder with your IDE and start development. To install project on your system install list of software:
 
-* PHP \(**>=7.0**\)
-* Apache \(>=**2.4**\)
-* MySQL \(>=**5.6**\) or MariaDB
+* PHP \(>= **7.0**\)
+* Apache \(>= **2.4**\)
+* MySQL \(>= **5.6**\) or MariaDB
 
 *Note: Install php modules for work with MySQL, command line\(CLI\), mcrypt, etc.*
 
