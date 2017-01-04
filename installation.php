@@ -39,6 +39,15 @@ class Install
     }
 
     /**
+     * @step
+     */
+    public function installDatabase()
+    {
+        // TODO: create database installation
+        // TODO: from file config/database/version_1.sql
+    }
+
+    /**
      * @param string|bool $message Abort message
      * @return void
      */
